@@ -1,0 +1,4 @@
+Л:	admin
+П:	6WwViW@wFFw1m2@4cL
+
+БД:	local_proj
